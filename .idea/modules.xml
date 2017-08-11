@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Caka-ICT_Java_Library/caka-ict-java-libs.iml" filepath="$PROJECT_DIR$/../Caka-ICT_Java_Library/caka-ict-java-libs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cakaictservices.iml" filepath="$PROJECT_DIR$/cakaictservices.iml" />
+    </modules>
+  </component>
+</project>
